@@ -1,0 +1,3 @@
+/home/Elen/ds-homework-ell-en-h/Set/CMakeFiles/Set.dir
+/home/Elen/ds-homework-ell-en-h/Set/CMakeFiles/edit_cache.dir
+/home/Elen/ds-homework-ell-en-h/Set/CMakeFiles/rebuild_cache.dir
